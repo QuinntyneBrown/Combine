@@ -1,0 +1,16 @@
+{
+  "domainNamespace": "Combine.Api",
+  "applicationNamespace": "Combine.Api",
+  "infrastructureNamespace": "Combine.Api",
+  "apiNamespace": "Combine.Api",
+  "domainDirectory": "C:\\Projects\\Combine\\src\\Combine.Api",
+  "applicationDirectory": "C:\\Projects\\Combine\\src\\Combine.Api",
+  "infrastructureDirectory": "C:\\Projects\\Combine\\src\\Combine.Api",
+  "apiDirectory": "C:\\Projects\\Combine\\src\\Combine.Api",
+  "path": "C:\\Projects\\Combine",
+  "dbContext": "CombineDbContext",
+  "sourceFolder": "src",
+  "resources": [
+    "Product"
+  ]
+}
